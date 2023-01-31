@@ -1,0 +1,36 @@
+.header{
+    font-size: 30px;
+    color: aliceblue;
+}
+input {
+    width:450px;
+    height:40px;
+    font-size: 20px;
+    
+}
+
+button {
+    width:80px;
+    
+    background-color:rgb(162, 141, 5);
+    height: 48px;
+    font-size: 20px;
+    color:white;
+}
+
+.input-box {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.border {
+    width: 550px;
+    height:50px;
+    border: 2px solid blue;
+    border-radius: 10px; 
+    border-style: none;
+    padding: 20px;
+
+    background-image: url("stars.jfif");
+}
